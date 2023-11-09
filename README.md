@@ -2,7 +2,7 @@
 
 **Miller250/Miller250**
 
-- 🔭 Atualmente estou estundado com o ""CSS.
+- 🔭 Atualmente estou estudando "HTML" e "CSS".
 - 🧑‍🎓 aluno do Curso manutenção e suporte de informatica.
 - 📧 Email para contato: monalize.moda@escola.pr.gov.br
 - 🏧 Estou trabalhando em um projeto de HTML.
